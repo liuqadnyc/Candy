@@ -1,3 +1,4 @@
+html { overflow-x: hidden; overflow-y: auto; }
 body {
 	background: #f5d9d5;
 	font-family: "Nunito", sans-serif;
